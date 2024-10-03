@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Suzanne, apprentiLAB fabmanager. ApprentiLAB is a makerspace for students and researchers of the Conservatoire national des arts et métiers, in France.
+- 👋 Hi, I’m Suzanne
 - 👀 I’m interested in : open source projects that either develop or promote sustainability, solidarity, creativity, collective intelligence. 
 I am also very partial to all things musical, new instruments and ways to create musical expression.
 
